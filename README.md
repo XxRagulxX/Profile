@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm XxRagulxX</h1>
 <h3 align="center">A passionate developer</h3>
-#💫 About Me:
+
+# 💫 About Me:
 
 I'm Currently learning Lua
 
