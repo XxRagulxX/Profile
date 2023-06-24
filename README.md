@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm XxRagulxX</h1>
 <h3 align="center">A passionate developer</h3>
+# 💫 About Me:
+I'm Currently learning Lua
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxragulxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxragulxx" /> </p>
 
@@ -17,7 +19,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxragulxx&show_icons=true&locale=en&layout=compact" alt="xxragulxx" /></p>
 
-<!---
-XxRagulxX/XxRagulxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=XxRagulxX&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XxRagulxX&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XxRagulxX&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+[![](https://visitcount.itsvg.in/api?id=XxRagulxX&icon=0&color=0)](https://visitcount.itsvg.in)
+
