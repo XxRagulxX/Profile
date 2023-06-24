@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @XxRagulxX AKA King
-- Please Report bug's on Discord ⬅️
-- 🌱 I’m currently learning ...
-
 <h1 align="center">Hi 👋, I'm XxRagulxX</h1>
 <h3 align="center">A passionate developer</h3>
 
