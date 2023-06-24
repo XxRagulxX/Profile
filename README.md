@@ -8,7 +8,7 @@ I'm Currently learning Lua
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxragulxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxragulxx" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/XxRagulxX/XxRagulxX/blob/main/animated.gif"
+<img align="right" alt="coding" width="400" src="https://github.com/XxRagulxX/XxRagulxX/blob/main/animated.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
