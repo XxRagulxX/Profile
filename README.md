@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm XxRagulxX</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+🖤&center=true&size=20" alt="typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Analyst;Passionate+about+Securing+the+Digital+World;Always+Learning+New+Attack+&+Defend+Techniques;Let's+Connect+and+Build+Safer+Systems!&center=true&size=20" alt="typing animation">
 </p>
 
 ## 💫 About Me
 
-- 🌱 I’m currently learning **Lua**
-- 👀 Interested in coding, scripting, and automation
+- 🛡️ I’m a **Cyber Security Analyst** passionate about threat detection, incident response, and protecting digital assets.
+- 🌱 Currently enhancing my skills in **penetration testing, malware analysis, and cloud security**.
+- 🕵️ I enjoy learning about the latest attack vectors, defense mechanisms, and ethical hacking techniques.
+- 📚 Always exploring new security tools, scripting automation for security monitoring, and contributing to open source security projects.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=xxragulxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxragulxx" />
@@ -22,18 +24,21 @@
   </a>
 </p>
 
-## 💻 Languages and Tools
+## 💻 Security Tools & Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-%231072b3.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/metasploit-2E2EFE?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-34495E?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/burpsuite-FCA121?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
